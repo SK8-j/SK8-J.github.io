@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "我是一个普通的学生"
   location         : "西安 AKA XI'AN"
-  employer         : "NONE"
+  employer         : #"NONE"
   uri              : # URL
   email            : "1905955545@qq.com" 
 
