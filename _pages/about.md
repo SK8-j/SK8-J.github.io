@@ -20,7 +20,7 @@ redirect_from:
 
 我将这两个数据集建立为数据库，并与大语言模型结合，进行产业链安全风险事件识别的研究。
 
-# 已完成的工作
+已完成的工作
 ======
 
 ## 💻 开发编程相关
@@ -36,7 +36,7 @@ redirect_from:
 - [x] Adobe After Effects视频特效制作、Adobe Premiere视频剪辑、Adobe Photoshop图片处理 
 - [X] Blender动画制作、实景合成
 
-# 未来计划
+未来计划
 ======
 
 - [ ] 📝 产业链安全风险事件识别论文赶紧做完
