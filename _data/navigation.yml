@@ -8,16 +8,16 @@ main:
   - title: "Portfolio(作品展示)"
     url: /portfolio/
             
-  - title: "Blog Posts(各种博客)"
+  - title: "Blog Posts(博客)"
     url: /year-archive/
 
   - title: "Talks(闲谈)"
     url: /talks/    
 
-  - title: "Teaching(长篇正规教程)"
+  - title: "Teaching(正经教程)"
     url: /teaching/    
     
-  - title: "Publications(发表论文)"
+  - title: "Publications(发表物)"
     url: /publications/
 
   - title: "CV(简历)"
