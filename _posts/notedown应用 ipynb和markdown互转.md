@@ -1,0 +1,58 @@
+---
+title: 'notedown应用'
+date: 2024-11-10
+permalink: /posts/2024/11/blog-post-4/
+tags:
+  - 库应用
+---
+```bash
+pip install notedown
+notedown input.md > output.ipynb
+```
+
+#### 1.1.2 notedown应用
+
+应用的基本命令：
+
+##### （1）[Markdown](https://so.csdn.net/so/search?q=Markdown&spm=1001.2101.3001.7020)→IPYNB
+
+```python
+notedown input.md > output.ipynb
+1
+```
+
+##### （2）[IPYNB](https://so.csdn.net/so/search?q=IPYNB&spm=1001.2101.3001.7020)→Markdown
+
+###### Ⅰ.去除输出
+
+将IPYNB中的所有的输出去掉，其余部分存储在Markdown文档中：
+
+```python
+notedown input.ipynb --to markdown --strip > output.md
+1
+```
+
+###### Ⅱ.带有输出
+
+下面是将notebook文档中的所有输出存储在输出JSON格式保持不变：
+
+```python
+notedown input.ipynb --to markdown > output_with_outputs.md
+1
+```
+
+之所以将Notebook的输出保存在 Markdown中JSON的格式中，是方便将来将该文档重新转换成Notebook的格式。也就是你可以在Markdown文档中进行编辑，再将其转换成IPYNB格式。 在Jupyter Notebook对于IPYNB文件稍微玩耍之后，还可以再次转换成Markdown文档。
+
+下面是将Markdown中的JSON格式的输出内容都去除。
+
+```python
+notedown with_output_cells.md --to markdown --strip > no_output_cells.md
+1
+```
+
+#### 1.1.3 运行Ipython
+
+```python
+notedown notebook.md --run > executed_notebook.ipynb
+1
+```
