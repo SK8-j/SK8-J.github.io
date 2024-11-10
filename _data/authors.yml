@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "吉宇豪"
+  uri         : "https://sk8-j.github.io/"
+  email       : "1905955545@qq.com"
+  bio         : "普通学生 普通滑手 普通人"
+  avatar      : "profile.png"
+  # twitter     : "name"
+  # google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
