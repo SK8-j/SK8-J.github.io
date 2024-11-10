@@ -28,6 +28,7 @@ redirect_from:
 -  Python数据分析、数据爬取、数据可视化、自然语言处理
 
 -  Vue.js前端开发、Flask后端开发、MySQL数据库开发
+
 ---
 
 ## 🚀 部署相关
