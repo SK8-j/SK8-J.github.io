@@ -5,8 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications(发表？)"
-    url: /publications/
+  - title: "Portfolio(作品展示)"
+    url: /portfolio/
+            
+  - title: "Blog Posts(各种博客)"
+    url: /year-archive/
 
   - title: "Talks(闲谈)"
     url: /talks/    
@@ -14,12 +17,9 @@ main:
   - title: "Teaching(长篇正规教程)"
     url: /teaching/    
     
-  - title: "Portfolio(作品展示)"
-    url: /portfolio/
-        
-  - title: "Blog Posts(各种博客)"
-    url: /year-archive/
-    
+  - title: "Publications(发表论文)"
+    url: /publications/
+
   - title: "CV(简历)"
     url: /cv/
     
