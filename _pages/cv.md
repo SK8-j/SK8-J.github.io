@@ -62,5 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-<iframe src="https://sk8-j-github-io.vercel.app/files/大模型实习生简历.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://sk8-j.github.io/files/大模型实习生简历.pdf" width="100%" height="600px"></iframe>
 <!-- <iframe src="files\大模型实习生简历.pdf" width="100%" height="600px"></iframe> -->

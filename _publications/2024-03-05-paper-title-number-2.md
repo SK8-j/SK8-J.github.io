@@ -7,7 +7,7 @@ excerpt: 'In previous studies about heterogeneous investment, many researchers o
 date: 2022-08-05
 venue: 'Physics Letters A'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://sk8-j-github-io.vercel.app/files/1-s2.0-S037596012200264X-main.pdf'
+paperurl: 'https://sk8-j.github.io/iles/1-s2.0-S037596012200264X-main.pdf'
 citation: 'He J, Wang J, Yu F, et al. The interplay between reputation and heterogeneous investment enhances cooperation in spatial public goods game[J]. Physics Letters A, 2022, 442: 128182.'
 ---
 
