@@ -1,5 +1,5 @@
 ---
-title: "The interplay between reputation and heterogeneous investment enhances cooperation in spatial public goods game"
+title: "中文期刊"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-08-05-paper-title-number-1
