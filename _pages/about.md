@@ -9,7 +9,8 @@ redirect_from:
 
 你好！我是吉宇豪，目前**西安交通大学管理学院管理科学与工程系**研二在读。我目前的研究方向是产业链安全风险事件识别，主要关注大语言模型与新闻事件数据的结合等方向。我的导师是[冯耕中](https://som.xjtu.edu.cn/info/1712/11864.htm)教授。
 
-<iframe src="https://sk8-j.github.io/files/大模型实习生简历.pdf" width="100%" height="300px"></iframe>
+<!-- <iframe src="https://sk8-j.github.io/files/大模型实习生简历.pdf" width="100%" height="300px"></iframe> -->
+<iframe src="https://sk8-j.github.io/files/数据分析师实习生吉宇豪.pdf" width="100%" height="300px"></iframe>
 
 
 目前在做的事
@@ -21,7 +22,7 @@ redirect_from:
 
 **我将这两个数据集建立为数据库，并与大语言模型结合，进行产业链安全风险事件识别的研究。**
 
-已完成的工作
+已掌握的知识技能
 ======
 
 ## 💻 开发编程相关
@@ -46,7 +47,7 @@ redirect_from:
 未来计划
 ======
 
--  📝 产业链安全风险事件识别论文赶紧做完
+-  📝 产业链安全风险识别论文尽快完成
 
 
 ---
@@ -59,4 +60,4 @@ redirect_from:
 
 ---
 
--  🌐 论文完事做自己想做的网站项目
+-  🌐 论文完成做自己想做的网站项目
