@@ -8,15 +8,15 @@ date: 2025-02-22
 location: "xi'an, China"
 ---
 
-# 解锁 DeepSeek R1 全能力：高性价比AI对话全流程指南
+## 解锁 DeepSeek R1 全能力：高性价比AI对话全流程指南
 
 <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png" alt="实际使用截图" width="365" data-align="center">
 
-### 🌟 用最低成本体验顶尖开源模型，对话成本低至 2 分钱/次！
+#### 🌟 用最低成本体验顶尖开源模型，对话成本低至 2 分钱/次！
 
 ---
 
-## 一、注册 SiliconFlow 领取千万Tokens
+### 一、注册 SiliconFlow 领取千万Tokens
 
 [<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12kik15.png" alt="注册入口" width="403" data-align="center">]()  
 **▶️ 操作步骤：**  
@@ -32,7 +32,7 @@ location: "xi'an, China"
 
 ---
 
-## 二、秒速获取 API 密钥
+### 二、秒速获取 API 密钥
 
 [<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12n4qg8.png" alt="密钥生成界面" width="386" data-align="center">]()  <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12o2cqq.png" alt="image" width="510" data-align="center">
 **▶️ 核心操作：**  
@@ -45,7 +45,7 @@ location: "xi'an, China"
 
 ---
 
-## 三、安装神器 ChatBox并急速配置
+### 三、安装神器 ChatBox并急速配置
 
 [<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12owm8y.png" alt="软件下载页面" width="410" data-align="center">]()  
 **▶️ 极速配置：**  
@@ -72,7 +72,7 @@ location: "xi'an, China"
 
 ---
 
-## 四、开启智能对话新时代
+### 四、开启智能对话新时代
 
 [<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png" alt="对话界面示例" width="507" data-align="center">]()  
 **🔥 功能亮点：**  
@@ -95,7 +95,7 @@ location: "xi'an, China"
 
 ---
 
-## 六、智能省钱攻略
+### 六、智能省钱攻略
 
 **🎯 最佳实践：**  
 
@@ -107,7 +107,7 @@ location: "xi'an, China"
 
 ---
 
-## 立即体验三大优势
+### 立即体验三大优势
 
 ✅ **成本直降 90%**：比主流商用API便宜10倍  
 ✅ **零技术门槛**：5分钟完成全流程配置  
