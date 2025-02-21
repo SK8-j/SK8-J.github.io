@@ -10,7 +10,7 @@ location: "xi'an, China"
 
 ## 解锁 DeepSeek R1 全能力：高性价比AI对话全流程指南
 
-<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png" alt="实际使用截图" width="365" data-align="center">
+![实际使用截图](http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png)
 
 #### 🌟 用最低成本体验顶尖开源模型，对话成本低至 2 分钱/次！
 
@@ -18,7 +18,7 @@ location: "xi'an, China"
 
 ### 一、注册 SiliconFlow 领取千万Tokens
 
-[<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12kik15.png" alt="注册入口" width="403" data-align="center">]()  
+[![注册入口](http://113.142.162.14:40061/i/2025/02/21/12kik15.png)]()  
 **▶️ 操作步骤：**  
 
 1. 点击专属链接注册：[https://cloud.siliconflow.cn/i/KoKtjLvD](https://cloud.siliconflow.cn/i/KoKtjLvD)  
@@ -34,7 +34,7 @@ location: "xi'an, China"
 
 ### 二、秒速获取 API 密钥
 
-[<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12n4qg8.png" alt="密钥生成界面" width="386" data-align="center">]()  <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12o2cqq.png" alt="image" width="510" data-align="center">
+![密钥生成界面](http://113.142.162.14:40061/i/2025/02/21/12n4qg8.png)  ![image](http://113.142.162.14:40061/i/2025/02/21/12o2cqq.png)
 **▶️ 核心操作：**  
 
 1. 登录后点击左侧导航栏「API 密钥」  
@@ -47,7 +47,7 @@ location: "xi'an, China"
 
 ### 三、安装神器 ChatBox并急速配置
 
-[<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12owm8y.png" alt="软件下载页面" width="410" data-align="center">]()  
+[![软件下载页面](http://113.142.162.14:40061/i/2025/02/21/12owm8y.png)]()  
 **▶️ 极速配置：**  
 
 1. 下载地址：[https://chatboxai.app/zh](https://chatboxai.app/zh)  [Chatbox AI官网：办公学习的AI好助手，全平台AI客户端，官方免费下载](https://chatboxai.app/zh)
@@ -64,17 +64,17 @@ location: "xi'an, China"
      - 🎨上下文的消息数量上限:10-14
      - 🎛️ Max Tokens: 4096
    
-   <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12piivz.png" alt="image" width="398" data-align="center"> 
+   ![image](http://113.142.162.14:40061/i/2025/02/21/12piivz.png)
 
 3. 设置-显示里可以修改成中文界面
    
-   <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12r6sze.png" alt="image" width="317" data-align="center">
+   ![image](http://113.142.162.14:40061/i/2025/02/21/12r6sze.png)
 
 ---
 
 ### 四、开启智能对话新时代
 
-[<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png" alt="对话界面示例" width="507" data-align="center">]()  
+[![对话界面示例](http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png)]()  
 **🔥 功能亮点：**  
 
 - 多轮对话自动保存 
@@ -91,7 +91,7 @@ location: "xi'an, China"
 
 > 示例：DeepSeek-R1一次提问对话 ≈ ¥0.02-0.09
 > 
-> <img title="" src="http://113.142.162.14:40061/i/2025/02/21/12up6cv.png" alt="image" width="458" data-align="center">
+> ![image](http://113.142.162.14:40061/i/2025/02/21/12up6cv.png)
 
 ---
 
@@ -103,7 +103,7 @@ location: "xi'an, China"
 2. 定期检查「费用账单—费用明细」面板   
 3. 可以选择蒸馏后体量减小的模型，费用更低、回复速度更快、性价比更高
 
-<img title="" src="http://113.142.162.14:40061/i/2025/02/22/1clhz.png" alt="image" width="530" data-align="center">
+![image](http://113.142.162.14:40061/i/2025/02/22/1clhz.png)
 
 ---
 
@@ -112,7 +112,7 @@ location: "xi'an, China"
 ✅ **成本直降 90%**：比主流商用API便宜10倍  
 ✅ **零技术门槛**：5分钟完成全流程配置  
 ✅ **数据全掌控**：对话记录本地加密存储  
-<img title="" src="http://113.142.162.14:40061/i/2025/02/22/1sz3p.png" alt="image" width="275" data-align="center">
+![image](http://113.142.162.14:40061/i/2025/02/22/1sz3p.png)
 
 ---
 
