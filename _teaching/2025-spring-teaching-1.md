@@ -11,7 +11,6 @@ location: "xi'an, China"
 ## 解锁 DeepSeek R1 全能力：高性价比AI对话全流程指南
 
 ![实际使用截图](http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png)
-<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12up6cv.png" alt="image" width="458" data-align="center">
 
 #### 🌟 用最低成本体验顶尖开源模型，对话成本低至 2 分钱/次！
 
