@@ -11,6 +11,7 @@ location: "xi'an, China"
 ## 解锁 DeepSeek R1 全能力：高性价比AI对话全流程指南
 
 ![实际使用截图](http://113.142.162.14:40061/i/2025/02/21/12lbzvr.png)
+<img title="" src="http://113.142.162.14:40061/i/2025/02/21/12up6cv.png" alt="image" width="458" data-align="center">
 
 #### 🌟 用最低成本体验顶尖开源模型，对话成本低至 2 分钱/次！
 
@@ -18,10 +19,10 @@ location: "xi'an, China"
 
 ### 一、注册 SiliconFlow 领取千万Tokens
 
-[![注册入口](http://113.142.162.14:40061/i/2025/02/21/12kik15.png)]()  
+![注册入口](http://113.142.162.14:40061/i/2025/02/21/12kik15.png)()  
 **▶️ 操作步骤：**  
 
-1. 点击专属链接注册：[https://cloud.siliconflow.cn/i/KoKtjLvD](https://cloud.siliconflow.cn/i/KoKtjLvD)  
+1. 点击专属链接注册：![https://cloud.siliconflow.cn/i/KoKtjLvD](https://cloud.siliconflow.cn/i/KoKtjLvD)  
 2. **手机验证码登录** → 立即获得 **2000万 Tokens**（价值约 ¥14）  
 3. 新用户专享超值福利：  
    ✅ DeepSeek-R1 满血版本  
