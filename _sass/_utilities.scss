@@ -204,7 +204,10 @@ body:hover .visually-hidden button {
   .fa-bluesky-square {
     color: $bluesky-color;
   }
-
+  .fa-cnblogs,
+  .fa-cnblogs-square {
+    color: $cnblogs-color;
+  }
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
