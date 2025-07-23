@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-你好！我是吉宇豪，目前**西安交通大学管理学院管理科学与工程系**研二在读。我目前的研究方向是产业链安全风险事件识别，主要关注大语言模型与新闻事件数据的结合等方向。我的导师是[冯耕中](https://som.xjtu.edu.cn/info/1712/11864.htm)教授。
+你好！我是吉宇豪，26届**西安交通大学管理学院管理科学与工程专业**研究生在读。我目前的研究方向是产业链安全风险事件识别，主要关注大语言模型与新闻事件数据的结合等方向。我的导师是[冯耕中](https://som.xjtu.edu.cn/info/1712/11864.htm)教授。
 
 <!-- <iframe src="https://sk8-j.github.io/files/大模型实习生简历.pdf" width="100%" height="300px"></iframe> -->
-<iframe src="https://sk8-j.github.io/files/通用-大模型简历.pdf" width="100%" height="300px"></iframe>
+<!-- <iframe src="https://sk8-j.github.io/files/通用-大模型简历.pdf" width="100%" height="300px"></iframe> -->
 
 
 目前在做的事
@@ -29,7 +29,7 @@ redirect_from:
 
 -  Python数据分析、Hugface Transformer 基础使用、数据爬取、数据可视化、自然语言处理
 
--  Vue.js前端开发、Flask（基于python的轻量化框架）后端开发、MySQL数据库开发
+-  Vue.js前端开发、Flask（基于python的轻量化框架）后端开发、MySQL数据库使用
 
 ---
 
@@ -47,17 +47,11 @@ redirect_from:
 未来计划
 ======
 
--  📝 产业链安全风险识别论文尽快完成
-
-
----
-
--  🎨 Blender 建模和材质的掌握，目前都是找模型，直接套材质
+-  📝 持续学习大模型相关知识，在AI时代充分利用相关工具
 
 ---
 
--  🐳 docker容器的学习使用，目前仅是像使用虚拟机那样基础用法
+-  🎨 尝试进行有意义的项目开发
 
 ---
-
--  🌐 论文完成做自己想做的网站项目
+- 🛹 坚持锻炼、保证好的身体和精神状态
